@@ -1,4 +1,4 @@
-Lista de Alunos
+﻿Lista de Alunos
 
 Bruno Cartaxo, bfsc
 Felipe Ebert, fe
@@ -13,3 +13,4 @@ Joanan Mendonça Jr., jlmj
 Rafael Pedrosa, rdp
 Wellington Oliveira, woj
 Fabio Soares, fss6
+Weslley Torres, wst
